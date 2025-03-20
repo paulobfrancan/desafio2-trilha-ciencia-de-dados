@@ -1,3 +1,5 @@
+// Abaixo estão as respostas da Parte I do Desafio
+
 // 1. Comando de repetição "while"
 let numero;
 while (numero !== 3) {
